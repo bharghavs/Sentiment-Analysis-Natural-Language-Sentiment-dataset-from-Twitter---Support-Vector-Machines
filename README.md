@@ -1,3 +1,3 @@
-# AI534 - Machine Learning - Collaborators: Bharath Padmaraju, Cheng Zhen, Bharghav Srikhakollu
+# AI534 - Machine Learning - Collaborators: Bharghav Srikhakollu, Bharath Padmaraju, Cheng Zhen
 Machine Learning - OSU
-These are the academic AI projects I did with another 2 members as part of class assignment work
+Academic Projects - Part of implementation assignments
